@@ -1,1 +1,2 @@
-# coupled_element_in_ABAQUS
+# Coupled element implementation in Abaqus
+more usage doc is coming soon...
